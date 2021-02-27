@@ -1,4 +1,4 @@
-### Hello everyone 👋
+### Hello everyone
 
 <!--
 **zoxaDev/zoxaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
