@@ -3,7 +3,7 @@ Mes projets en cours de développement : zoxaLogger
 Mes projets finis : pas encore de projet finit
 
 ## Mes stats ^^
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoxaDev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoxaDev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Je développe en :
 --> `Javascript`, `TypeScript`, `MySQL` **etc...**
